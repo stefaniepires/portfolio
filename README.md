@@ -9,4 +9,4 @@
 ## Website
 https://steftinsley.github.io
 
-![Screenshot of Portfolio](/assets/images/portfolio-screenshot)
+![Screenshot of Portfolio](https://github.com/steftinsley/steftinsley.github.io/blob/master/assets/images/Portfolio-Screenshot.png)
