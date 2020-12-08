@@ -214,7 +214,7 @@
   }
   
   .grid-layout {
-    width: 65%;
+    width: 95%;
     display: grid;
     grid-template-columns: repeat(4, 4fr);
     grid-template-rows: repeat(2, 170px);
