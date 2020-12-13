@@ -5,6 +5,7 @@
 ## Built With
 * HTML
 * CSS
+* JS
 
 ## Website
 https://steftinsley.github.io
