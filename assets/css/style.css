@@ -83,6 +83,7 @@
       border-radius: 50px;
       background: var(--tan);
       color: #fff;
+      transition: 1s;
   }
   
   /*hero*/
@@ -130,6 +131,7 @@
   height: auto; 
   -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
   filter: grayscale(100%);
+  transition: 1s;
   }
   
   .flex-row img:hover {
@@ -241,6 +243,7 @@
     opacity: 0.6;
     transition: 0.5s;
     filter: drop-shadow(8px 8px 10px var(--dark-blue));
+    transition: 2s;
   }
   
   .snapshot:hover {
@@ -291,6 +294,7 @@
     border-radius: 50px;
     background: var(--tan);
     color: #fff;
+    transition: 1s;
   }
   
   
