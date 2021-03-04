@@ -8,6 +8,6 @@
 * JS
 
 ## Website
-https://steftinsley.github.io
+https://stefaniepires.github.io/steftinsley.github.io/
 
 ![Screenshot of Portfolio](https://github.com/steftinsley/steftinsley.github.io/blob/master/assets/images/Portfolio-Screenshot.png)
