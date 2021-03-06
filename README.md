@@ -1,4 +1,4 @@
-# Stefanie Tinsley
+# Stefanie Pires
 
 ## Portfolio
 
